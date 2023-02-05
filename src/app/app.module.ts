@@ -8,12 +8,14 @@ import { ExamComponent } from './exam/exam.component';
 import { RouterModule } from '@angular/router';
 import { MenuComponent } from './menu/menu.component';
 import { HttpClientModule } from '@angular/common/http';
+import { StudyComponent } from './study/study.component';
 @NgModule({
   declarations: [
     AppComponent,
     SingleQuestionsComponent,
     ExamComponent,
     MenuComponent,
+    StudyComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, RouterModule, HttpClientModule],
   providers: [],
