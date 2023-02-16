@@ -1,8 +1,9 @@
 <div class="mx-auto text-center mt-20 w-1/5 rounded-xl bg-cyan-200 p-4">
-  <p class="text-3xl mb-10">Pytanie nr:</p>
+  <p class="text-3xl mb-10">Pytanie nr: {{question.id }}</p>
   <div class="flex flex-row justify-between">
-    <button class="w-78 border rounded-xl bg-green-400 p-1 m-4" routerLink="/exam">Poprzednie pytanie</button>
-    <button class="w-70 border rounded-xl bg-green-400 p-1 m-4" [routerLink]="['/single-questions']">Następne
+    <button class="w-78 border rounded-xl bg-green-400 p-1 m-4" type="button" (click)="increase()">Poprzednie
+      pytanie</button>
+    <button class="w-70 border rounded-xl bg-green-400 p-1 m-4" type="button" (click)="decrease()">Następne
       pytanie</button>
   </div>
 </div>

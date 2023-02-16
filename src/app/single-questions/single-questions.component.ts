@@ -1,12 +1,23 @@
 import { Component } from '@angular/core';
-import questions from '../../assets/questions.json';
-import { HttpClient } from '@angular/common/http';
-import { Observable } from 'rxjs';
+import { BehaviorSubject } from 'rxjs';
+
+import * as data from '../../assets/questions.json';
 @Component({
   selector: 'app-single-questions',
   templateUrl: './single-questions.component.html',
   styleUrls: ['./single-questions.component.scss'],
 })
 export class SingleQuestionsComponent {
-  private _jsonURL = '../../assets/questions.json';
+  questions = data;
+  question: any;
+  showAnswear$ = new BehaviorSubject(false);
+
+  constructor() {
+    this.question =
+      this.questions[Math.floor(Math.random() * this.questions.length)];
+  }
+
+  showAnswear() {
+    this.showAnswear$.next(true);
+  }
 }
