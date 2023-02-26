@@ -171,8 +171,8 @@
     "id": "22",
     "question": "Jednoosobową obsługę trakcyjną można stosować w pociągach: Ir-1 §15 ust. 3 pkt. 1",
     "a": "z prędkością nieprzekraczają 130 km/h",
-    "b": "z prędkością większą niż 130 km/h",
-    "c": "z prędkością większą niż 160 km/h",
+    "b": "z prędkością większą niż130 km/h",
+    "c": "z prędkością większą niż160 km/h",
     "answear": "A"
   },
   {
@@ -1316,7 +1316,7 @@
     "question": "Jaką dokumentację technicznoruchową należy prowadzić na posterunku ruchu? Ir-3 RT dz. nr. 43",
     "a": "przydzieloną przez zawiadowcę",
     "b": "tylko niezbędną",
-    "c": "wymienioną w regulaminie technicznym  Ir-2",
+    "c": "wymienioną w regulaminie technicznym",
     "answear": "C"
   },
   {
@@ -1484,7 +1484,7 @@
     "question": "W której części książki E 1758 dokonuje się zapisów w przypadku usunięcia usterki w działaniu urządzeń srk? Ir-2 §30 ust.3",
     "a": "w pierwszej części",
     "b": "w drugiej części",
-    "c": "w pierwszej i drugiej części  Ir-5",
+    "c": "w pierwszej i drugiej części",
     "answear": "A"
   },
   {
@@ -1540,7 +1540,7 @@
     "question": "Czy można w czasie radiotelefonicznego zapowiadania pociągów prowadzić ruch pociągów przewożących towary niebezpieczne?",
     "a": "przepisy nie zabraniają",
     "b": "nie mogą być wyprawiane",
-    "c": "decyzję podejmuje dyspozytor  Ir-7",
+    "c": "decyzję podejmuje dyspozytor",
     "answear": "A"
   },
   {
@@ -1604,7 +1604,7 @@
     "question": "Jak należy postępować w przypadku uszkodzenia urządzeń rogatkowych nastawianych z miejsca uniemożliwiającego zamykanie rogatek? Ir-7 załącznik nr 3",
     "a": "stosować się do postanowień Regulaminu Obsługi Przejazdu Kolejowo – Drogowego lub przejścia",
     "b": "zatrzymywać pojazdy drogowe tylko od strony toru, po którym jedzie pociąg",
-    "c": "wstrzymać ruch na szlaku Ir-8",
+    "c": "wstrzymać ruch na szlaku",
     "answear": "A"
   },
   {
@@ -1660,7 +1660,7 @@
     "question": "Pociąg jest to: Ir-8 §2 ust. 54",
     "a": "skład wagonów lub innych pojazdów kolejowych, sprzęgniętych z czynnym pojazdem trakcyjnym albo pojazd trakcyjny – osygnalizowany i przygotowany do jazdy lub znajdujący się w drodze",
     "b": "skład wagonów lub innych pojazdów kolejowych sprzęgniętych ze sobą i pojazdem trakcyjnym",
-    "c": "skład wagonów sprzęgniętych z czynnym pojazdem trakcyjnym znajdujący się w drodze  Ir-9",
+    "c": "skład wagonów sprzęgniętych z czynnym pojazdem trakcyjnym znajdujący się w drodze",
     "answear": "A"
   },
   {
@@ -1932,7 +1932,7 @@
     "question": "Ile pojazdów trakcyjnych może być użytych do prowadzenia pociągu? Ir-9 § 21 ust. 2 pkt. 21",
     "a": "nie więcej niż jedna lokomotywa ciągnąca i jedna popychająca",
     "b": "nie więcej niż dwie lokomotywy ciągnące i jedna popychająca",
-    "c": "nie więcej niż jedna lokomotywa ciągnąca i dwie popychające  Ir-16",
+    "c": "nie więcej niż jedna lokomotywa ciągnąca i dwie popychające",
     "answear": "B"
   },
   {
@@ -1996,7 +1996,7 @@
     "question": "Przewóz towarów niebezpiecznych wysokiego ryzyka TWR oraz postępowanie poszczególnych pracowników w czasie jazdy pociągu z takim materiałem reguluje? Ir-16 § 6 ust. 4",
     "a": "tylko załącznik 2 do umowy SMGS",
     "b": "instrukcja Ir-10 (R57)",
-    "c": "plan zapewnienia bezpieczeństwa przy przewozie towarów niebezpiecznych wysokiego ryzyka Ir-17",
+    "c": "plan zapewnienia bezpieczeństwa przy przewozie towarów niebezpiecznych wysokiego ryzyka",
     "answear": "C"
   },
   {
@@ -2028,7 +2028,7 @@
     "question": "Faza 0 pogotowia zimowego występuje, gdy: Ir-17 §15 ust. 1 pkt. 1",
     "a": "nie ma opadów śniegu a występują tylko ujemne temperatury",
     "b": "warunki atmosferyczne nie wpływają negatywnie na proces eksploatacyjno – przewozowy na liniach kolejowych",
-    "c": "warunki atmosferyczne są niekorzystne ale nie ma opóźnień pociągów Ia-7",
+    "c": "warunki atmosferyczne są niekorzystne ale nie ma opóźnień pociągów",
     "answear": "B"
   },
   {
@@ -2268,7 +2268,7 @@
     "question": "Z jaką prędkością można przejechać obok semafora wyjazdowego na szlak z samoczynną blokadą liniową, na którym wyświetlony jest „Sz”- białe migające światło? Ie-1 §3 ust.13 pkt 18 lit. b",
     "a": "do 40 km/h",
     "b": "do 40 lub 60 km/h",
-    "c": "nie może przekraczać 20 km/h  § 4 Sygnały nadawane przez sygnalizatory powtarzające",
+    "c": "nie może przekraczać 20 km/h",
     "answear": "C"
   },
   {
@@ -2300,7 +2300,7 @@
     "question": "Co oznacza sygnał „Sp4” na semaforze powtarzającym: dolne światło białe ciągłe, a górne pomarańczowe migające? Ie-1 §4 ust. 5 pkt 1",
     "a": "jazda przy semaforze do którego semafor powtarzający się odnosi z prędkością do 40km/h",
     "b": "semafor wskazuje sygnał zezwalający na jazdę z prędkością zmniejszoną do 40 lub 60km/h",
-    "c": "jazda przy semaforze do którego semafor powtarzający się odnosi z prędkością do 60 km/h § 5 Sygnały nadawane przez tarcze ostrzegawcze semaforowe",
+    "c": "jazda przy semaforze do którego semafor powtarzający się odnosi z prędkością do 60 km/h",
     "answear": "B"
   },
   {
@@ -2356,7 +2356,7 @@
     "question": "Co oznacza sygnał Os 4 na tarczy ostrzegawczej świetlnej- jedno światło pomarańczowe migające na tarczy? Ie-1 §5 ust. 15 pkt 4",
     "a": "semafor, do którego tarcza się odnosi wskazuje sygnał zezwalający na jazdę z prędkością do 40 km/h",
     "b": "semafor, do którego się tarcza odnosi wskazuje sygnał zezwalający na jazdę z prędkością zmniejszoną do 40 lub 60 km/h",
-    "c": "semafor, do którego tarcza się odnosi wskazuje sygnał „Stój”  § 6 Sygnały nadawane przez tarcze ostrzegawcze przejazdowe",
+    "c": "semafor, do którego tarcza się odnosi wskazuje sygnał „Stój”",
     "answear": "B"
   },
   {
@@ -2380,7 +2380,7 @@
     "question": "W przypadku gdy tarcza ostrzegawcza przejazdowa wskazuje sygnał „Osp1” Urządzenia sygnalizacji na przejeździe, do którego się tarcza odnosi, są niesprawne, jazda przez przejazd z prędkością do 20km/h- ograniczenie prędkości dotyczy: Ie-1 §6 ust. 5",
     "a": "tylko czoła pociągu",
     "b": "całej długości pociągu",
-    "c": "do czasu stwierdzenia przez prowadzącego pojazd trakcyjny, że nie ma przeszkody na przejeździe § 7 Tarcze manewrowe i rozrządowe",
+    "c": "do czasu stwierdzenia przez prowadzącego pojazd trakcyjny, że nie ma przeszkody na przejeździe",
     "answear": "A"
   },
   {
@@ -2436,7 +2436,7 @@
     "question": "Jak wygląda Sygnał Rt3 „Pchać z umiarkowaną prędkością ”? Ie-1 §7 ust. 11 pkt 3",
     "a": "szereg białych świateł tworzących linię ukośną",
     "b": "szereg białych świateł tworzących linię pionową",
-    "c": "szereg białych świateł tworzących linię poziomą § 9 Sygnały zamknięcia toru",
+    "c": "szereg białych świateł tworzących linię poziomą",
     "answear": "B"
   },
   {
@@ -2492,7 +2492,7 @@
     "question": "Jak wygląda Sygnał Z 2wk „Wykolejnica zdjęta z toru” na latarni elektrycznej? Ie-1 §9 ust. 11 pkt 2",
     "a": "dwa białe światła w pionie",
     "b": "dwa pionowe czerwone światła",
-    "c": "dwa poziome białe światła  § 10 Sygnały zatrzymania i zmniejszenia prędkości podawane przenośnymi tarczami",
+    "c": "dwa poziome białe światła",
     "answear": "A"
   },
   {
@@ -2548,7 +2548,7 @@
     "question": "W jakiej odległości ustawia się tarczę D 6 „Zwolnić bieg” przed początkiem odcinka, po którym należy przejechać z ograniczoną prędkością? Ie-1 §10 ust. 18",
     "a": "drogi hamowania",
     "b": "drogi hamowania + 200m",
-    "c": "200m  § 11 Sygnały ogólnego stosowania dawane przez uprawnione osoby",
+    "c": "200m",
     "answear": "A"
   },
   {
@@ -2612,7 +2612,7 @@
     "question": "Jak nadaje się Sygnał Rm 6 „Docisnąć” nocny? Ie-1 §11 ust. 7 pkt 6",
     "a": "dwa krótkie i jeden długi ton gwizdkiem oraz białe światło latarki przerywane w krótkich odstępach czasu",
     "b": "dwa krótkie tony gwizdkiem i jednocześnie białe światło ręcznej latarki sygnałowej przerywane w krótkich odstępach czasu skierowane w stronę maszynisty",
-    "c": "dwa długie i jeden krótki ton gwizdkiem oraz białe światło latarki przerywane w krótkich odstępach czasu  § 12 Sygnały dawane dźwiękowym urządzeniem ostrzegającym lokomotywy lub innego pojazdu kolejowego z napędem",
+    "c": "dwa długie i jeden krótki ton gwizdkiem oraz białe światło latarki przerywane w krótkich odstępach czasu",
     "answear": "B"
   },
   {
@@ -2645,7 +2645,7 @@
     "a": "dróżnik stoi w miejscu wyznaczonym regulaminem obsługi przejazdu, trzymając w ręce pionowo do góry chorągiewkę sygnałową koloru żółtego",
     "b": "dróżnik przejazdowy porusza powoli pionowo ręczną latarką sygnałową z białym światłem",
     "c": "dróżnik stoi w miejscu wyznaczonym regulaminem obsługi przejazdu, trzymając w ręce latarkę ręczną z białym światłem",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "332",
@@ -2653,7 +2653,7 @@
     "a": "oznaczenie czoła pociągu lub innego pojazdu kolejowego jadącego na szlaku jednotorowym ,w kierunku zasadniczym po torze szlaku dwutorowego lub w dowolnym kierunku po torze szlaku dwu - i wielotorowego z dwukierunkową blokadą liniową",
     "b": "oznaczenie końca pociągu lub innego pojazdu kolejowego jadącego na szlaku jednotorowym lub w dowolnym kierunku po torze szlaku dwu- i wielotorowego z dwukierunkową blokadą liniową",
     "c": "oznaczenie końca pociągu lub innego pojazdu kolejowego jadącego na szlaku jednotorowym ,w kierunku zasadniczym po torze szlaku dwutorowego lub w dowolnym kierunku po torze szlaku dwu - i wielotorowego z dwukierunkową blokadą liniową",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "333",
@@ -2661,7 +2661,7 @@
     "a": "dwa lub trzy światła, z których górne i prawe w kierunku jazdy są białe, lewe zaś – czerwone, na przodzie pociągu",
     "b": "dwa lub trzy światła ,z których dolne w kierunku jazdy są białe, górne zaś czerwone na czole pociągu",
     "c": "dwa lub trzy światła, z których górne i prawe w kierunku jazdy są czerwone, lewe zaś białe na czole pociągu",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "334",
@@ -2669,7 +2669,7 @@
     "a": "jedno górne światło czerwone, natomiast dolne dwa białe na czole pociągu",
     "b": "jedno górne światło białe i dwa dolne światła czerwone na czole pociągu",
     "c": "jedno górne światło białe, natomiast dolne dwa światła czerwone migające na czole pociągu",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "335",
@@ -2677,15 +2677,15 @@
     "a": "Pc1 - dwa lub trzy światła białe",
     "b": "Pc2 - górne i prawe w kierunku jazdy białe, a lewe czerwone",
     "c": "Pc5 - dwa światła czerwone",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "336",
     "question": "Jak wygląda Sygnał Tb1 „Oznaczenie przodu i tyłu pojazdu trakcyjnego wykonującego manewry”? Ie-1 §14 ust. 8 pkt 1",
     "a": "z przodu i z tyłu po jednym białym świetle od strony czynnego stanowiska maszynisty",
     "b": "z przodu i z tyłu dwa światła białe od strony prowadzącego pojazd trakcyjny",
-    "c": "z przodu i z tyłu po jednym białym świetle od strony prowadzącego pojazd trakcyjny § 15 Sygnały alarmowe",
-    "answear": ""
+    "c": "z przodu i z tyłu po jednym białym świetle od strony prowadzącego pojazd trakcyjny",
+    "answear": "A"
   },
   {
     "id": "337",
@@ -2693,15 +2693,15 @@
     "a": "dwa czerwone światła migające na czole lokomotywy i jednocześnie jeden długi i trzy krótkie dźwięki syreną lokomotyw",
     "b": "dwa białe światła migające na czole lokomotywy i jednocześnie jeden długi i trzy krótkie dźwięki dźwiękowego urządzenia ostrzegającego powtarzane kilkakrotnie",
     "c": "dwa białe światła ciągłe na czole lokomotywy i jednocześnie jeden długi i trzy krótkie dźwięki syreną lokomotywy",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "338",
     "question": "Jak nadaje się Sygnał A2 „Pożar”? Ie-1 §15 ust. 1 pkt 3",
     "a": "dwa krótkie i jeden długi dźwięk dostępnym urządzeniem ostrzegającym lokomotywy",
     "b": "jeden długi i dwa krótkie dźwięki dostępnym urządzeniem ostrzegającym lokomotywy",
-    "c": "jeden długi i trzy krótkie dźwięki dostępnym urządzeniem ostrzegającym lokomotywy  § 16 Wskaźniki",
-    "answear": ""
+    "c": "jeden długi i trzy krótkie dźwięki dostępnym urządzeniem ostrzegającym lokomotywy",
+    "answear": "B"
   },
   {
     "id": "339",
@@ -2709,7 +2709,7 @@
     "a": "zwrotnic scentralizowanych, po których jazdy odbywają się tylko z wykorzystaniem przebiegów utwierdzanych lub zamykanych",
     "b": "ujętych w regulaminie technicznym",
     "c": "przy zwrotnicach niescentralizowanych, po których jazdy odbywają się z wykorzystaniem przebiegów utwierdzanych lub zamykanych",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "340",
@@ -2717,7 +2717,7 @@
     "a": "wskaźnikiem ograniczenia prędkości",
     "b": "wskaźnikami odcinka ograniczonej prędkości",
     "c": "przenośnymi tarczami : ostrzegawczą i zatrzymania",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "341",
@@ -2725,7 +2725,7 @@
     "a": "wskaźnik W14",
     "b": "wskaźnik W9",
     "c": "wskaźnik W1",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "342",
@@ -2733,7 +2733,7 @@
     "a": "znajdujący się z prawej strony toru przy tym wskaźniku semafor lub tarcza zatrzymania nie odnoszą się do toru, przy którym stoi wskaźnik",
     "b": "znajdujący się z lewej strony toru przy tym wskaźniku semafor lub tarcza zatrzymania nie odnoszą się do toru ,przy którym stoi wskaźnik",
     "c": "semafor , sygnalizator powtarzający lub tarcza ostrzegawcza nie są umieszczone w miejscu, w którym powinny się znajdować",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "343",
@@ -2741,7 +2741,7 @@
     "a": "należy dać sygnał Rp1 „Baczność”",
     "b": "należy zmniejszyć prędkość jazdy",
     "c": "miejsce zatrzymania się czoła pociągu",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "344",
@@ -2749,7 +2749,7 @@
     "a": "za wskaźnikiem znajduje się tarcza ostrzegawcza semafora wjazdowego",
     "b": "do tego miejsca można dojechać manewrami",
     "c": "należy dać sygnał Rp1 „Baczność",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "345",
@@ -2757,7 +2757,7 @@
     "a": "należy dać sygnał Rp1 „Baczność” przed przejazdami i przejściami kolejowymi",
     "b": "należy dać sygnał Rp1 „Baczność”",
     "c": "należy dać sygnał Rp1 „Baczność” w celu ostrzeżenia ludzi pracujących na torze",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "346",
@@ -2765,7 +2765,7 @@
     "a": "należy dać sygnał Rp1” Baczność” przed przejazdami i przejściami kolejowymi",
     "b": "należy dać sygnał Rp1 „Baczność”",
     "c": "należy dać sygnał Rp1 „Baczność” w celu ostrzeżenia ludzi pracujących na torze",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "347",
@@ -2773,7 +2773,7 @@
     "a": "należy dać sygnał Rp1” Baczność” przed przejazdami i przejściami kolejowymi",
     "b": "należy dać sygnał Rp1 „Baczność”",
     "c": "należy dać sygnał Rp1 „Baczność” w celu ostrzeżenia ludzi pracujących na torze",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "348",
@@ -2781,7 +2781,7 @@
     "a": "10 km/h",
     "b": "5 km/h",
     "c": "do 20 km/h",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "349",
@@ -2789,7 +2789,7 @@
     "a": "ostrzeżenie jest ujęte w wykazie ostrzeżeń stałych",
     "b": "ograniczenie prędkości jest wprowadzone doraźnie",
     "c": "sygnalizujemy prędkość wskazaną w wewnętrznym rozkładzie jazdy",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "350",
@@ -2797,7 +2797,7 @@
     "a": "drogi hamowania + 200m",
     "b": "drogi hamowania + 50m",
     "c": "drogi hamowania",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "351",
@@ -2805,7 +2805,7 @@
     "a": "wskaźnikiem W 14",
     "b": "wskaźnikiem W 9",
     "c": "tarczą D 6",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "352",
@@ -2813,7 +2813,7 @@
     "a": "oznacza początek lub koniec odcinka, przez który należy przejeżdżać z ograniczoną prędkością",
     "b": "oznacza, że należy zmniejszyć prędkość jazdy",
     "c": "oznacza, że należy dać sygnał „Baczność”",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "353",
@@ -2821,7 +2821,7 @@
     "a": "biała tablica w kształcie ukośnika z czarnym obramowaniem, zwrócona do góry wierzchołkiem leżącym na dłuższej przekątnej",
     "b": "prostokątne tablice pomarańczowe z czarnymi trójkątami równobocznymi",
     "c": "wskaźnik świetlny – mlecznobiały kąt na czarnym tle zwrócony wierzchołkiem ku górze albo ku dołowi",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "354",
@@ -2829,7 +2829,7 @@
     "a": "200m",
     "b": "500m",
     "c": "100m",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "355",
@@ -2837,7 +2837,7 @@
     "a": "tarcza ostrzegawcza przejazdowa",
     "b": "w odległości hamowania przystanek osobowy",
     "c": "tarcza ostrzegawcza semafora wjazdowego lub odstępowego",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "356",
@@ -2845,7 +2845,7 @@
     "a": "biała tablica w kształcie ukośnika z czarnym obramowaniem",
     "b": "prostokątna tablica pomarańczowa z jednym lub dwoma czarnymi trójkątami równobocznymi skierowanymi wierzchołkiem do góry",
     "c": "prostokątna biała tablica z pasem czarnym ukośnym",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "357",
@@ -2853,7 +2853,7 @@
     "a": "łącznie z sygnałem D6",
     "b": "łącznie ze wskaźnikiem W8",
     "c": "łącznie z tarczą DO",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "358",
@@ -2861,7 +2861,7 @@
     "a": "znajdujący się z prawej strony toru przy tym wskaźniku semafor lub tarcza zatrzymania nie odnosi się do tego toru",
     "b": "semafor, sygnalizator powtarzający lub tarcza ostrzegawcza nie są umieszczone w miejscu, w którym powinny się znajdować, pomimo to odnoszą się do toru przy którym stoi wskaźnik",
     "c": "oznacza, że odległość między dwoma następnymi semaforami jest mniejsza od obowiązującej",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "359",
@@ -2869,7 +2869,7 @@
     "a": "biała pozioma tablica z trzema czarnymi pasami wznoszącymi się ukośnie z lewa na prawo",
     "b": "prostokątna tablica pomarańczowa z jednym czarnym trójkątem równobocznym",
     "c": "prostokątna pomarańczowa tablica pozioma a na niej dwa czarne kąty, stykające się wierzchołkami w środku tablicy",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "360",
@@ -2877,7 +2877,7 @@
     "a": "w miejscu gdzie odległość przy zbiegających się torach wynosi 3,5m",
     "b": "miejsce usytuowania wskaźnika wyznacza się z uwzględnieniem obowiązującej skrajni i warunków lokalnych, w szczególności przechyłki lub poszerzenia na łuku",
     "c": "w miejscu wyznaczonym w regulaminie technicznym",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "361",
@@ -2885,7 +2885,7 @@
     "a": "kwadratowa biała tablica z czarnym obramowaniem, a na niej czarny pierścień z czarnym kołem w środku",
     "b": "czarna tablica z białą strzałą zwróconą do dołu",
     "c": "czarna tablica z białą literą T",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "362",
@@ -2893,7 +2893,7 @@
     "a": "odległość między dwoma następnymi semaforami lub między następną tarczą ostrzegawczą semaforową a semaforem jest mniejsza od obowiązującej na danej linii kolejowej długości drogi hamowania",
     "b": "odległość między dwoma następnymi semaforami lub między następną tarczą ostrzegawczą semaforową a semaforem jest większa od obowiązującej na danej linii kolejowej długości hamowania",
     "c": "pociąg towarowy może przejechać bez zatrzymania ze zmniejszoną prędkością obok semafora odstępowego blokady samoczynnej",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "363",
@@ -2901,7 +2901,7 @@
     "a": "miejsce zmiany i obowiązującą od tego miejsca największą dozwoloną prędkość dla pociągu towarowego",
     "b": "pociąg towarowy może przejechać bez zatrzymania ze zmniejszoną prędkością obok semafora odstępowego blokady samoczynnej, wskazującego sygnał „Stój”",
     "c": "pociąg towarowy może przejechać bez zatrzymania ze zmniejszoną prędkością obok semafora odstępowego blokady półsamoczynnej, wskazującego sygnał „Stój",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "364",
@@ -2909,7 +2909,7 @@
     "a": "biało- czerwony słupek",
     "b": "żółty słupek",
     "c": "czerwony słupek",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "365",
@@ -2917,7 +2917,7 @@
     "a": "pociąg towarowy może przejechać bez zatrzymania ze zmniejszoną prędkością obok semafora odstępowego blokady samoczynnej, wskazującego sygnał „Stój”",
     "b": "wyjazd na tor szlaku dwutorowego (lub wielotorowego) w kierunku przeciwnym do zasadniczego",
     "c": "semafor, sygnalizator powtarzający lub tarcza ostrzegawcza nie są umieszczone w miejscu, w którym powinny się znajdować, pomimo to odnoszą się do toru przy którym stoi wskaźnik",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "366",
@@ -2925,7 +2925,7 @@
     "a": "okrągła czarna tablica a na niej żółte oznaczenie literowo- cyfrowe",
     "b": "czarna tablica z białą literą T",
     "c": "prostokątna tablica pomarańczowa z jednym czarnym trójkątem równobocznym",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "367",
@@ -2933,7 +2933,7 @@
     "a": "czarna tablica z białą literą T",
     "b": "biały ukośny krzyż z czarną obwódką",
     "c": "biała tablica w kształcie ukośnika z czarnym obramowaniem, zwrócona do góry wierzchołkiem leżącym na dłuższej przekątnej",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "368",
@@ -2941,7 +2941,7 @@
     "a": "biała tablica pięciokątna z czarną obwódką i czarną liczbą określającą długość pociągu w metrach",
     "b": "okrągła czarna tablica a na niej żółte oznaczenie literowo - cyfrowe",
     "c": "żółty słupek",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "369",
@@ -2949,7 +2949,7 @@
     "a": "45°",
     "b": "90°",
     "c": "60°",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "370",
@@ -2957,15 +2957,15 @@
     "a": "semafory odstępowe",
     "b": "semafory drogowskazowe",
     "c": "semafory powtarzające",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "371",
     "question": "Na semaforze odstępowym obraz sygnałowy składający się z dwóch świateł wskazuje:",
     "a": "dolne światło- prędkość jazdy przez osłaniany odstęp, górne światło- wskazania następnego semafora",
     "b": "dolne światło- wskazania następnego semafora, górne światło- prędkość jazdy przez osłaniany odstęp",
-    "c": "sygnał wątpliwy Ie-3",
-    "answear": ""
+    "c": "sygnał wątpliwy",
+    "answear": "C"
   },
   {
     "id": "372",
@@ -2973,15 +2973,15 @@
     "a": "poleca prowadzącemu pojazd kolejowy niezwłoczne zatrzymanie pociągu i dokonanie oględzin wskazanej osi, samemu podejmując działania związane z sytuacją potencjalnie niebezpieczną",
     "b": "przekazuje prowadzącemu pojazd kolejowy informację o rodzaju uszkodzenia i jego lokalizację celem dokonania oględzin wskazanej osi na najbliższej stacji przez pracownika przewoźnika",
     "c": "przekazuje prowadzącemu pojazd kolejowy informację o stanie ostrzegawczym rejestrując ten fakt w prowadzonej dokumentacji",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "373",
     "question": "Jak powinien postąpić dyżurny ruchu w przypadku wykrycia przez urządzenia detekcji stanów awaryjnych taboru, stanu ostrzegawczego zagrzanego hamulca? Ie-3 §19 ust.1",
     "a": "poleca prowadzącemu pojazd kolejowy niezwłoczne zatrzymanie pociągu i dokonanie oględzin wskazanej osi, samemu podejmując działania związane z sytuacją potencjalnie niebezpieczną",
     "b": "przekazuje prowadzącemu pojazd kolejowy informację o rodzaju uszkodzenia i jego lokalizację celem dokonania oględzin wskazanej osi na najbliższej stacji przez pracownika przewoźnika",
-    "c": "przekazuje prowadzącemu pojazd kolejowy informację o stanie ostrzegawczym rejestrując ten fakt w prowadzonej dokumentacji Ie-4 WTB-E 10 395",
-    "answear": ""
+    "c": "przekazuje prowadzącemu pojazd kolejowy informację o stanie ostrzegawczym rejestrując ten fakt w prowadzonej dokumentacji",
+    "answear": "B"
   },
   {
     "id": "374",
@@ -2989,7 +2989,7 @@
     "a": "odcinek toru za urządzeniem ochronnym o długości niezbędnej do zatrzymania pociągu przed miejscem niebezpiecznym",
     "b": "odcinek toru za sygnalizatorem zabraniającym jazdy, na który wjechałby pojazd kolejowy w razie nie zatrzymania się na drodze jazdy w przypadku nieprzewidzianych trudności podczas prawidłowo rozpoczętego i wykonywanego hamowania",
     "c": "tor lub część toru stacyjnego pomiędzy kolejnymi sygnalizatorami lub pomiędzy sygnalizatorem stacyjnym a granicą posterunku oddalonych od siebie w odległości niezbędnej do zatrzymania pociągu",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "375",
@@ -2997,7 +2997,7 @@
     "a": "przebiegi, których droga przebiegu nie jest utwierdzona",
     "b": "przebiegi, które ze względów bezpieczeństwa nie mogą się odbywać jednocześnie",
     "c": "przebiegi uniemożliwiające przejazd pociągu w rejon manewrowy stacji",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "376",
@@ -3005,7 +3005,7 @@
     "a": "przebieg ,który można zabezpieczyć drążkiem przebiegowym i zablokować blokiem Pu",
     "b": "przebieg, opisany w RT dz. 4, którego nie można zabezpieczyć drążkiem przebiegowym",
     "c": "przebieg, którego droga przebiegu nie jest utwierdzona ani zamknięta",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "377",
@@ -3013,7 +3013,7 @@
     "a": "zabezpieczenie przed powtórnym wykorzystaniem zgody, nakazu, bądź stwierdzenia nie zajętości toru, szlaku lub odstępu blokowego",
     "b": "pozwala na ponowne podanie sygnału zezwalającego dla tego przebiegu bez jego zwolnienia",
     "c": "nie pozwala na wyświetlenie sygnału zastępczego dla tego przebiegu po jego zwolnieniu",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "378",
@@ -3021,7 +3021,7 @@
     "a": "Elektromechaniczne i elektryczne",
     "b": "dwustawne, trzystawne i czterostawne",
     "c": "jednoodstępowe (półsamoczynne) i wieloodstępowe (samoczynne",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "379",
@@ -3029,7 +3029,7 @@
     "a": "wskaźniki ukresu oznaczające miejsca przy zbiegających się torach do których wolno zająć tor taborem",
     "b": "zwrotnice ochronne, wykolejnice, sygnalizatory",
     "c": "układy torowe uniemożliwiające wjazd taboru kolejowego w realizowaną drogę przebiegu",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "380",
@@ -3037,7 +3037,7 @@
     "a": "urządzenia samoczynnego systemu przejazdowego SSP wyposażonego w dwie lub cztery rogatki",
     "b": "urządzenia samoczynnego systemu SSP bez rogatek",
     "c": "w rogatki obsługiwane z odległości przez uprawnionego pracownika",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "381",
@@ -3045,7 +3045,7 @@
     "a": "powoduje zamknięcie zamknięcia nastawczego",
     "b": "unieruchamia ją oraz zwalnia zamknięcie następnej zwrotnicy w realizowanej drodze przebiegu zgodnie z tablicą zależności",
     "c": "zapewnia kontrolę położenia iglic i zamykanie ich w położeniach krańcowych",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "382",
@@ -3053,15 +3053,15 @@
     "a": "zabezpieczenia taboru przed zbiegnięciem",
     "b": "zamknięcia torów dla manewrów w sytuacji, gdy tor jest zajęty",
     "c": "zabezpieczenie przebiegów pociągowych przed najechaniem taboru z toru bocznego",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "383",
     "question": "Zwrotnice powinny być ponumerowane kolejnymi liczbami zgodnie z: Ie-4 §21 ust.1",
     "a": "kierunkiem zasadniczej jazdy pociągów",
     "b": "kierunkiem kilometrowania linii",
-    "c": "odległością od nastawni dysponującej  Ie-5",
-    "answear": ""
+    "c": "odległością od nastawni dysponującej",
+    "answear": "B"
   },
   {
     "id": "384",
@@ -3069,7 +3069,7 @@
     "a": "przypomnienie pracownikom obsługi technicznej o ewentualnej konieczności wprowadzenia telefonicznego zapowiadania ruchu pociągów w przypadku otwarcia tych urządzeń",
     "b": "pomieszczenie w którym znajdują się substancje toksyczne",
     "c": "urządzenia do którego dostęp pracowników obsługi technicznej możliwy jest jedynie w obecności naczelnika sekcji lub mistrza automatyki.",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "385",
@@ -3077,7 +3077,7 @@
     "a": "nie może",
     "b": "może, ale tylko za zgodą swojego zwierzchnika",
     "c": "może, ale za każdorazową wyraźną zgodą personelu obsługi",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "386",
@@ -3085,7 +3085,7 @@
     "a": "wykaz monterów urządzeń srk do pracy w czynnych urządzeniach na posterunku",
     "b": "wykaz zwierzchników uprawnionych do kontroli posterunku ruchu",
     "c": "wykaz pracowników uprawnionych do prowadzenia robót związanych z naprawą i regulacją działania iglic zwrotnicowych",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "387",
@@ -3093,7 +3093,7 @@
     "a": "wykaz pracowników upoważnionych do samodzielnego usuwania usterek i prowadzenia robót w czynnych urządzeniach zamykanych i plombowanych w obrębie posterunku",
     "b": "wykaz pracowników upoważnionych do prowadzenia robót związanych z naprawą i regulacją zwrotnic",
     "c": "wykaz pracowników wykonawców robót spoza zakładu wykonujących prace w czynnych urządzeniach srk",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "388",
@@ -3101,7 +3101,7 @@
     "a": "I",
     "b": "II",
     "c": "dowolnej",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "389",
@@ -3109,7 +3109,7 @@
     "a": "zamazać treść omyłkowego zapisu i obok nowa treść",
     "b": "przekreślenie omyłkowego zapisu w taki sposób aby możliwe było odczytanie skreślonej treści, przekreślenie powinno być podpisane",
     "c": "poprzez zaznaczenie całości omyłkowego zapisu a w kolumnie „Uwagi” zaznaczyć iż jest to omyłkowa treść",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "390",
@@ -3117,7 +3117,7 @@
     "a": "w książce D 831",
     "b": "w dzienniku R 366",
     "c": "w książce kontroli urządzeń E 1758",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "391",
@@ -3125,7 +3125,7 @@
     "a": "pisemna zgoda dyrektora zakładu",
     "b": "ustna zgoda naczelnika ds. automatyki po uzyskaniu pozytywnej opinii kontrolera ds. automatyki",
     "c": "zatwierdzony projekt techniczny wykonany przez osobę uprawnioną w rozumieniu przepisów prawa budowlanego",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "392",
@@ -3133,7 +3133,7 @@
     "a": "1 zamek i 1 spona",
     "b": "2 zamki i 2 spony",
     "c": "3 zamki i 3 spony",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "393",
@@ -3141,7 +3141,7 @@
     "a": "zamki zamontowane są w sąsiadujących okręgach nastawczych w torach po których odbywa się jedynie ruch pociągów towarowych",
     "b": "zamki mogą być zamontowane w rozjazdach w torach głównych dodatkowych",
     "c": "zamki zwrotnicowe zamontowane są w okręgach nastawczych nie sąsiadujących ze sobą",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "394",
@@ -3149,7 +3149,7 @@
     "a": "klucze zapasowe do siłowni",
     "b": "zapasowe klucze przebiegowe, zgód nakazów i zwalniaczy",
     "c": "klucze zapasowe od pomieszczeń i aparatury zdalnego sterowania",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "395",
@@ -3157,15 +3157,15 @@
     "a": "poleceń i wskazówek naczelnika sekcji",
     "b": "uzgodnień z dyżurnym ruchu, po zapisie w części I książki E1758",
     "c": "postanowień regulaminu tymczasowego prowadzenia ruchu",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "396",
     "question": "W którym przypadku dopuszczalne jest dokonywanie odpisów w książce E1758 za pomocą urządzeń łączności: Ie-5 §17 ust.25",
     "a": "przy pracach prowadzonych w urządzeniach SSP",
     "b": "w czasie usuwania awarii w stacyjnych przytorowych urządzeniach srk,",
-    "c": "przy przystępowaniu do komisyjnego technicznego badań rozjazdów na stacji Ie-8",
-    "answear": ""
+    "c": "przy przystępowaniu do komisyjnego technicznego badań rozjazdów na stacji",
+    "answear": "A"
   },
   {
     "id": "397",
@@ -3173,7 +3173,7 @@
     "a": "informuje, że blokada jest w stanie zasadniczym a ruch pociągów nie może odbywać się na sygnały zezwalające",
     "b": "informuje, że zastawka elektryczna jest zwolniona w położeniu zasadniczym",
     "c": "wskazuje na konieczność użycia ręcznego zwalniacza dla zwolnienia bloku",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "398",
@@ -3181,7 +3181,7 @@
     "a": "wałki blokowe",
     "b": "zawórki blokowe",
     "c": "okienka bloków blokady stacyjnej",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "399",
@@ -3189,7 +3189,7 @@
     "a": "blok początkowy, pozwolenia i końcowy",
     "b": "bloki Dn, On, Dz, Oz i Pu",
     "c": "bloki On, Dn, Oz, Dz",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "400",
@@ -3197,7 +3197,7 @@
     "a": "stwierdzenia że pociąg wjechał z sygnałem końca pociągu",
     "b": "stwierdzenia wjazdu pociągu",
     "c": "uniemożliwienia zablokowania bloku końcowego przed wjazdem pociągu",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "401",
@@ -3205,7 +3205,7 @@
     "a": "podpórkę",
     "b": "klin nastawczy",
     "c": "opórkę końcową",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "402",
@@ -3213,7 +3213,7 @@
     "a": "po utwierdzeniu drogi wyjazdowej i przed podaniem sygnału zezwalającego na jazdę na semaforze wyjazdowym",
     "b": "po wyprawieniu pociągu na sygnał zezwalający na jazdę i po nastawieniu semafora na sygnał „Stój”",
     "c": "po otrzymaniu informacji o przybyciu pociągu od sąsiedniego posterunku ruchu",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "403",
@@ -3221,7 +3221,7 @@
     "a": "zgodę sąsiedniego posterunku na wyjazd pociągu na szlak,",
     "b": "potwierdzenie dla sąsiedniego posterunku o wyjeździe pociągu na szlak",
     "c": "potwierdzenie przybycia pociągu na posterunek, który blokuje blok końcowy",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "404",
@@ -3229,7 +3229,7 @@
     "a": "powiadomić dyżurnego ruchu telefonicznie o wjeździe lub wyjeździe pociągu",
     "b": "blokować najpierw blok otrzymania nakazu lub zgody a potem blok końcowy lub początkowy",
     "c": "blokować najpierw blok początkowy lub końcowy, a potem dopiero blok otrzymania nakazu lub zgody",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "405",
@@ -3237,7 +3237,7 @@
     "a": "jest niemożliwe w każdym przypadku",
     "b": "jest możliwe, jeżeli użyjemy włącznika zastawki lub przycisku dPo",
     "c": "jest możliwe zawsze bez obsługi dodatkowych urządzeń",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "406",
@@ -3245,7 +3245,7 @@
     "a": "zabezpieczyć zwrotnicę sponą iglicową",
     "b": "dozorować zwrotnicę",
     "c": "użyć uniwersalnego klucza zwrotnicowego umieszczonego w miejscu określonym przez regulamin techniczny stacji",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "407",
@@ -3253,7 +3253,7 @@
     "a": "wyjąć sworznie z pręta napędnego i prętów kontrolnych oraz ewentualnie założyć przeciwwagę",
     "b": "wyjąć sworzeń z pręta napędnego, a na prętach kontrolnych zostawić sworznie, założyć przeciwwagę",
     "c": "odpisać w książkach E 1758 oraz D 831 i zamknąć rozjazd dla ruchu ustawiając go w położeniu ochronnym dla innych przebiegów.",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "408",
@@ -3261,7 +3261,7 @@
     "a": "założyć na tej zwrotnicy zamek zwrotnicowy (przy iglicy odlegającej) i sponę iglicową (przy iglicy przylegającej)",
     "b": "zamknąć rozjazd dla ruchu, odnotować fakt w D 831 i E 1758 i powiadomić upoważnionych pracowników",
     "c": "po dokonaniu oględzin i stwierdzeniu, że zwrotnica nie uległa uszkodzeniu można dopuścić po niej jazdę",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "409",
@@ -3269,7 +3269,7 @@
     "a": "odpisać w E 1758, obsłużyć blok końcowy „ w tył”",
     "b": "odpisać w E 1758, zwolnić zastawkę ręcznie, wprowadzić telefoniczne zapowiadanie pociągów i powiadomić automatyka",
     "c": "odpisać w książce E 1758, wprowadzić telefoniczne zapowiadanie pociągów, obsłużyć blok końcowy i wprowadzić telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "410",
@@ -3277,15 +3277,15 @@
     "a": "do 50 km/h",
     "b": "do 40 km/h",
     "c": "do 20 km/h",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "411",
     "question": "Kiedy należy zablokować blok przebiegowy utwierdzający: Ie-8 §21 ust.24",
     "a": "przed rozpoczęciem układania określonej drogi przebiegu",
     "b": "przed przełożeniem dźwigni sygnałowej lub zablokowaniem bloku dania zgody albo nakazu",
-    "c": "przed przełożeniem dźwigni zwrotnicowej zwrotnicy znajdującej się jako ostatniej w realizowanej drodze przebiegu, zgodnie  Ie-10",
-    "answear": ""
+    "c": "przed przełożeniem dźwigni zwrotnicowej zwrotnicy znajdującej się jako ostatniej w realizowanej drodze przebiegu, zgodnie",
+    "answear": "B"
   },
   {
     "id": "412",
@@ -3293,7 +3293,7 @@
     "a": "suwak nastawczy",
     "b": "suwaki kontrolne w napędzie połączone bezpośrednio z iglicami",
     "c": "czerwone sworznie łączące pręty kontrolne z suwakami kontrolnymi",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "413",
@@ -3301,7 +3301,7 @@
     "a": "manewrowe i pociągowe",
     "b": "dzienne i nocne",
     "c": "obsługiwane i nieobsługiwane",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "414",
@@ -3309,7 +3309,7 @@
     "a": "do prowadzenia ruchu pociągów na szlaku wg. zasady wyprawiania pociągów w odstępach blokowych",
     "b": "uzależniania czynności nastawczych pomiędzy posterunkami nastawczymi w obrębie posterunku ruchu",
     "c": "do blokowania zwrotnic w krańcowym położeniu w obrębie posterunku w zależności od staniu ich obwodów zwrotnicowych",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "415",
@@ -3317,7 +3317,7 @@
     "a": "uzależniania czynności nastawczych pomiędzy posterunkami nastawczymi w obrębie posterunku ruchu",
     "b": "wyprawiania pociągów na szlak w odstępach blokowych",
     "c": "do przesyłania informacji o kursujących pociągach na danej linii",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "416",
@@ -3325,7 +3325,7 @@
     "a": "do prowadzenia ruchu pociągów na szlaku wg. zasady wyprawiania pociągów w odstępach blokowych",
     "b": "regulacji kolejności ruchu pociągów na szlaku w odstępach czasowych określonych regulaminami technicznymi posterunków następczych,",
     "c": "do przesyłania informacji o kursujących pociągach na danej linii",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "417",
@@ -3333,7 +3333,7 @@
     "a": "zawsze przez obserwację drogi przebiegu z okna nastawni",
     "b": "obserwację lampek kontrolnych na pulpicie świetlnym, gdy urządzenia te działają prawidłowo",
     "c": "obserwacje świateł kontrolnych na pulpicie świetlnym, gdy urządzenia te działają nieprawidłowo",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "418",
@@ -3341,7 +3341,7 @@
     "a": "wyłączyć napięcie zasilające tych elementów – wyciągnąć kostkę i sprawdzić przyczynę",
     "b": "dokonać nasmarowania tych elementów, z wykorzystaniem smaru będącego na wyposażeniu nastawni",
     "c": "niezwłocznie zawiadomić o tym automatyka urządzeń srk",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "419",
@@ -3349,7 +3349,7 @@
     "a": "przy braku kontroli położenia zwrotnicy",
     "b": "w razie wykazywania zajętości zwrotnicy",
     "c": "w razie uszkodzenia przycisku zwrotnicowego",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "420",
@@ -3357,7 +3357,7 @@
     "a": "czekać na zapalenie się światła kontrolnego sygnału zezwalającego",
     "b": "odnotować w E1758 fakt i przyczynę zerwania plomby",
     "c": "należy sprawdzić działanie urządzeń poprzez dwukrotne ułożenie tej samej drogi przebiegu a w przypadku nie zwalnia powiadomić automatyka",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "421",
@@ -3365,7 +3365,7 @@
     "a": "użyć przycisku doraźnego zwolnienia przebiegu",
     "b": "zwolnić drogę przebiegu przy użyciu jazdy manewrowej",
     "c": "wstrzymać ruch do czasu przybycia pracownika automatyki",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "422",
@@ -3373,7 +3373,7 @@
     "a": "samoczynnie po obsłużeniu przycisków służących do podawania sygnałów zezwalających na semaforze",
     "b": "po ułożeniu zwrotnic w położeniach odpowiednich dla drogi przebiegu pociągu",
     "c": "po wjechaniu pociągu w stację",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "423",
@@ -3381,7 +3381,7 @@
     "a": "sprawdzić zgodność położenia zwrotnic z nastawionym przebiegiem i wyłączyć prąd nastawczy lub zastosować utwierdzenie przebiegiem manewrowym",
     "b": "dozorować zwrotnicę na gruncie po uprzednim zabezpieczeniu przez urządzenia pomocnicze",
     "c": "wyłączyć bezpieczniki zwrotnic ustawionych w kierunku na ostrze dla jazdy pociągu",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "424",
@@ -3389,7 +3389,7 @@
     "a": "po najechaniu pierwszej osi na urządzenia oddziaływania pociągu",
     "b": "przez przyciśnięcie przycisku bloku końcowego",
     "c": "samoczynnie podczas jazdy pociągu",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "425",
@@ -3397,7 +3397,7 @@
     "a": "służący do doraźnego zwolnienia przebiegu manewrowego,",
     "b": "przycisk pomocniczy dla blokowania bloku końcowego,",
     "c": "przycisk służący do włączania i wyłączania prądu nastawczego zwrotnic",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "426",
@@ -3405,7 +3405,7 @@
     "a": "blok pozwolenia jest odblokowany i tor szlakowy jest wolny",
     "b": "tor szlakowy z obwodem torowym jest wolny",
     "c": "blok pozwolenia odblokowany a lampka kontrolna przekaźnika przeciwzwrotnego świeci białym światłem migającym",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "427",
@@ -3413,7 +3413,7 @@
     "a": "obwód torowy toru szlakowego jest wolny i nie został nastawiony na ten szlak żaden przebieg pociągowy",
     "b": "pociąg znajduje się na szlaku",
     "c": "pociąg wjeżdża do stacji",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "428",
@@ -3421,7 +3421,7 @@
     "a": "dokonać oględzin poprawności przekładania i po upewnieniu się o prawidłowości działania, zamknąć iglicę dolegającą sponą iglicową",
     "b": "wyłączyć ze scentralizowanego nastawiania i zamknąć zamkiem trzpieniowym iglicę odlegającą",
     "c": "zamknąć rozjazd dla ruchu, powiadomić upoważnionych pracowników utrzymania, odpisać w książce E 1758 i D 831",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "429",
@@ -3429,7 +3429,7 @@
     "a": "po dokonaniu oględzin jej stanu technicznego oraz dodatkowo zabezpieczeniu jej na gruncie zamkiem trzpieniowym i sponą iglicową",
     "b": "po dokonaniu oględzin jej stanu technicznego oraz trzykrotnym jej przełożeniu, stwierdzeniu prawidłowego działania zwrotnicy oraz urządzeń srk i uzyskaniu kontroli położenia na planie świetlnym",
     "c": "po sprawdzeniu rozjazdu wraz z napędem zwrotnicowym, przez upoważnionych pracowników i odpisaniu wyników sprawdzenia prawidłowego działania tych urządzeń w E 1758 i D 831",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "430",
@@ -3437,7 +3437,7 @@
     "a": "po dokonaniu oględzin i stwierdzeniu, że zwrotnica nie uległa uszkodzeniu można dopuścić po niej jazdę",
     "b": "założyć na tej zwrotnicy zamek zwrotnicowy lub sponę iglicową (przy iglicy odlegającej), odpowiadający rodzajowi zamknięcia nastawczego i typowi szyny",
     "c": "zamknąć rozjazd dla ruchu, odnotować fakt w D 831 i E 1758 i powiadomić upoważnionych pracowników",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "431",
@@ -3445,7 +3445,7 @@
     "a": "50km/h",
     "b": "40km/h",
     "c": "20km/h",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "432",
@@ -3453,7 +3453,7 @@
     "a": "zamyka się ją zamkiem trzpieniowym",
     "b": "zamyka się ją zamkiem wykolejnicowym zapasowym",
     "c": "dozoruje się ją na miejscu",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "433",
@@ -3461,7 +3461,7 @@
     "a": "otworzyć komorę przekaźników i wyłączyć zasilanie urządzeń",
     "b": "założyć przeciwwagę i przełożyć zwrotnicę",
     "c": "odłączyć napęd od zwrotnicy i zamknąć zapasowym zamkiem zwrotnicowym lub sponą iglicową",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "434",
@@ -3469,7 +3469,7 @@
     "a": "wyłączyć prąd nastawczy",
     "b": "zabezpieczyć sponą iglicową lub zamkiem zwrotnicowym",
     "c": "użyć przycisku Iz i odpisać w książce E1758",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "435",
@@ -3477,7 +3477,7 @@
     "a": "zatrzymać ruch pociągów i czekać na przybycie pracowników utrzymania wymienionych w tabeli A i B książki E1758, celem usunięcia przez nich usterki",
     "b": "prowadzić ruch pociągów po założeniu zamków i spon na zwrotnice niewidoczne z posterunku, a pozostałe zwrotnice strzec przed przestawieniem",
     "c": "prowadzić ruch po każdorazowym upewnieniu się na miejscu o właściwym położeniu zwrotnic, zgodnie z realizowaną drogą przebiegu",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "436",
@@ -3485,7 +3485,7 @@
     "a": "poprzez wyciągnięcie sworznia łączącego suwak iglicowy z prętem napędowym",
     "b": "poprzez użycie przycisku „stop”",
     "c": "poprzez zdjęcie zamka nastawczego i zablokowanie zapasowymi zamkami zwrotnicowymi",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "437",
@@ -3493,7 +3493,7 @@
     "a": "sworzeń łączący suwak iglicowy z prętem napędowym",
     "b": "sworznie: łączący suwak iglicowy z prętem napędowym oraz łączący suwak kontrolny z prętem kontrolnym iglicy przylegającej do opornicy",
     "c": "sworzeń łączący suwak iglicowy z prętem napędowym oraz sworznie łączące suwaki kontrolne z prętami kontrolnymi",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "438",
@@ -3501,7 +3501,7 @@
     "a": "zamkiem zwrotnicowym iglicę dolegającą",
     "b": "sponą iglicę dolegającą",
     "c": "zamkiem zwrotnicowym iglicę odlegającą a dodatkowo sponą iglicę dolegającą",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "439",
@@ -3509,15 +3509,15 @@
     "a": "należy bezzwłocznie wprowadzić telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu pomiędzy nastawniami",
     "b": "zanotować fakt w książce E-1758 i dla dalszych jazd pociągowych obsługiwać przycisk doraźny umożliwiający blokowanie „w przód”",
     "c": "dopuszcza się rozwiązanie drogi przebiegu ręcznie za pomocą właściwego przycisku zwalniającego",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "440",
     "question": "Do czego służy przycisk dPo w półsamoczynnej blokadzie liniowej przekaźnikowej? Ie-10 §33 ust.3",
     "a": "doraźnie zwolnienia bloku „Po” po dojeździe pociągu do sąsiedniej stacji",
     "b": "umożliwia obsługiwanie blokady podczas wyjazdu pociągu na szlak przy sygnale „S1”- blokowanie „w przód”",
-    "c": "umożliwia wjazd pociągu ze szlaku w stację Ie-12",
-    "answear": ""
+    "c": "umożliwia wjazd pociągu ze szlaku w stację",
+    "answear": "B"
   },
   {
     "id": "441",
@@ -3525,7 +3525,7 @@
     "a": "w książce E 1758 odpisać stan urządzeń",
     "b": "wprowadzić odpowiednie obostrzenia i określić termin usunięcia usterki",
     "c": "niezwłocznie powiadomić naczelnika sekcji",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "442",
@@ -3533,15 +3533,15 @@
     "a": "dopiero po uzyskaniu na to, w każdym oddzielnym przypadku, wyraźnej zgody pracownika obsługi",
     "b": "za każdym razem, po uprzednim dokonaniu wpisu w E1758 o możliwości dokonywania przestawiania zwrotnic w czasie zabiegów obsługi technicznej",
     "c": "bez zgody pracownika obsługi przy zachowaniu szczególnej ostrożności w torach głównych dodatkowych",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "443",
     "question": "Na czyje polecenie może nastąpić zdjęcie lub założenie plomby na urządzeniach po wypadku: Ie-12 §10 ust.2",
     "a": "kontrolera",
     "b": "naczelnika sekcji",
-    "c": "przewodniczącego komisji powypadkowej  DROGI",
-    "answear": ""
+    "c": "przewodniczącego komisji powypadkowej",
+    "answear": "C"
   },
   {
     "id": "444",
@@ -3549,7 +3549,7 @@
     "a": "przy napędzie",
     "b": "w pręcie kontrolnym",
     "c": "w suwaku iglicowym",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "445",
@@ -3557,7 +3557,7 @@
     "a": "do utrzymania drążka suwakowego",
     "b": "do utrzymania łubki stykowej",
     "c": "do przytwierdzenia szyny do podkładki",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "446",
@@ -3565,7 +3565,7 @@
     "a": "3 mm",
     "b": "5 mm",
     "c": "10 mm",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "447",
@@ -3573,7 +3573,7 @@
     "a": "dolegającą",
     "b": "odlegającą",
     "c": "zarówno iglicę dolegającą jak i odlegającą",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "448",
@@ -3581,7 +3581,7 @@
     "a": "chronią suwak przed działaniem nadmiernych sił",
     "b": "ograniczaja skok suwaka",
     "c": "służą do utrzymania połączenia iglic",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "449",
@@ -3589,7 +3589,7 @@
     "a": "14 mm",
     "b": "12 mm",
     "c": "10 mmi",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "450",
@@ -3597,7 +3597,7 @@
     "a": "pracownik wyznaczony regulaminem technicznym",
     "b": "pracownik wyznaczony przez toromistrza",
     "c": "pracownik po przeszkoleniu przez dyżurnego ruchu",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "451",
@@ -3605,7 +3605,7 @@
     "a": "DO i D1",
     "b": "D2 i D3",
     "c": "D8 i D1",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "452",
@@ -3613,7 +3613,7 @@
     "a": "należy zamknąć tor",
     "b": "ograniczyć prędkość do 5 km/godz.",
     "c": "ograniczyć prędkość do 20 km/godz.",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "453",
@@ -3621,7 +3621,7 @@
     "a": "F",
     "b": "E",
     "c": "A",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "454",
@@ -3629,7 +3629,7 @@
     "a": "niebieskiego",
     "b": "czarnego",
     "c": "czerwonego",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "455",
@@ -3637,7 +3637,7 @@
     "a": "10 m",
     "b": "8 m",
     "c": "5 m",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "456",
@@ -3645,7 +3645,7 @@
     "a": "lokomotywy elektryczne i spalinowe",
     "b": "tylko drezyny motorowe",
     "c": "pojazdy kolejowe z napędem własnym",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "457",
@@ -3653,7 +3653,7 @@
     "a": "4 mm",
     "b": "3 mm",
     "c": "1 mm",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "458",
@@ -3661,7 +3661,7 @@
     "a": "Przewodniczący Komisji Powypadkowej",
     "b": "naczelnik sekcji",
     "c": "toromistrz",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "459",
@@ -3669,7 +3669,7 @@
     "a": "W7",
     "b": "W5",
     "c": "W14",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "460",
@@ -3677,7 +3677,7 @@
     "a": "3 m od skrajnej szyny",
     "b": "6 m od skrajnej szyny",
     "c": "5 m od skrajnej szyny",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "461",
@@ -3685,7 +3685,7 @@
     "a": "5 m od skrajnej szyny",
     "b": "6 m od skrajnej szyny",
     "c": "3 m od skrajnej szyny",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "462",
@@ -3693,7 +3693,7 @@
     "a": "60 mm",
     "b": "75 mm",
     "c": "58 mm",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "463",
@@ -3701,7 +3701,7 @@
     "a": "W-8 i W-9",
     "b": "W-8 i W-14",
     "c": "D-6 i W-14",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "464",
@@ -3709,7 +3709,7 @@
     "a": "przynajmniej 44 mm",
     "b": "przynajmniej 38 mm",
     "c": "przynajmniej 30 mm",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "465",
@@ -3717,7 +3717,7 @@
     "a": "5 m",
     "b": "10 m",
     "c": "15 m",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "466",
@@ -3725,7 +3725,7 @@
     "a": "nie ma znaczenia czy białym, czy czarnym do góry",
     "b": "położenie zasadnicze zwrotnicy",
     "c": "że rozjazd ten posiada zamknięcie hakowe",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "467",
@@ -3733,7 +3733,7 @@
     "a": "5 mm",
     "b": "35 mm",
     "c": "15 mm",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "468",
@@ -3741,7 +3741,7 @@
     "a": "przytwierdzenia linek obejściowych",
     "b": "przytwierdzenia szyny do podkładki",
     "c": "przytwierdzenia opórek iglicowych",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "469",
@@ -3749,7 +3749,7 @@
     "a": "w Instrukcji o badaniach rozjazdów Id-4",
     "b": "w Warunkach technicznych utrzymania nawierzchni na liniach kolejowych Id-1",
     "c": "w Instrukcji diagnostyki kolejowej Id-8",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "470",
@@ -3757,7 +3757,7 @@
     "a": "dróżnik obchodowy",
     "b": "toromistrz",
     "c": "wyznaczony pracownik",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "471",
@@ -3765,7 +3765,7 @@
     "a": "W 6",
     "b": "W 6a",
     "c": "W 6b",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "472",
@@ -3773,7 +3773,7 @@
     "a": "co drugi podkład",
     "b": "maksymalnie kolejne dwa podkłady",
     "c": "co czwarty podkład",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "473",
@@ -3781,7 +3781,7 @@
     "a": "częściowe przesunięcie iglicy dolegającej oraz zwolnienie zamknięcia nastawczego",
     "b": "częściowe przesunięcie iglicy odlegającej oraz zwolnienie zamknięcia nastawczego",
     "c": "częściowe przesunięcie obydwu iglicy oraz zwolnienie zamknięcia nastawczego",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "474",
@@ -3789,7 +3789,7 @@
     "a": "w regulaminie przejazdu",
     "b": "w specjalnej do tych celów kontrolce",
     "c": "w dzienniku pracy dróżnika przejazdowego",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "475",
@@ -3797,7 +3797,7 @@
     "a": "przeszkody nieprzejezdnej",
     "b": "przeszkody czasowego ograniczenia prędkości",
     "c": "stałego ograniczenia prędkości biegu pociągów",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "476",
@@ -3805,7 +3805,7 @@
     "a": "dróżnikowi obchodowemu",
     "b": "dyżurnemu ruchu posterunku zapowiadawczego",
     "c": "funkcjonariuszowi SOK",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "477",
@@ -3813,7 +3813,7 @@
     "a": "1435 mm",
     "b": "1520 mm",
     "c": "1430 mm",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "478",
@@ -3821,7 +3821,7 @@
     "a": "białe migające światło",
     "b": "białe ciągłe światło",
     "c": "niebieskie ciągłe światło",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "479",
@@ -3829,7 +3829,7 @@
     "a": "z sygnalizacją świetlną",
     "b": "z sygnalizacją świetlną i dźwiękową",
     "c": "bez rogatek i bez sygnalizacji",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "480",
@@ -3837,7 +3837,7 @@
     "a": "zakaz przejazdu przez rozjazd",
     "b": "zwrotnica nastawiona jest w kierunku prostym na ostrze lub z ostrza",
     "c": "jazda przez rozjazd w kierunku zwrotnym",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "481",
@@ -3845,7 +3845,7 @@
     "a": "w odległości co najmniej 50 m",
     "b": "w odległości co najmniej 100 m",
     "c": "w odległości co najmniej 200 m",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "482",
@@ -3853,7 +3853,7 @@
     "a": "użytku publicznego",
     "b": "przejście dla pieszych",
     "c": "użytku niepublicznego",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "483",
@@ -3861,7 +3861,7 @@
     "a": "Ir-20",
     "b": "Ir-7",
     "c": "Ir-2",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "484",
@@ -3869,7 +3869,7 @@
     "a": "wskaźników W-8 i W-9",
     "b": "tarczy D-6 i wskaźników W-9",
     "c": "wskaźników W-8 i W-14",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "485",
@@ -3877,7 +3877,7 @@
     "a": "drogi hamowania plus 250 m",
     "b": "drogi hamowania plus 200 m",
     "c": "drogi hamowania",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "486",
@@ -3885,7 +3885,7 @@
     "a": "ławę torowiska z urządzeniami",
     "b": "szyny, podkłady i podsypkę",
     "c": "słupy trakcyjne z uszynieniami",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "487",
@@ -3893,7 +3893,7 @@
     "a": "zwrotnicę, szyny łączące i krzyżownicę z kierownicami",
     "b": "szyny, podrozjazdnice i tłuczeń",
     "c": "napęd, drążek suwakowy i prowadnice",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "488",
@@ -3901,7 +3901,7 @@
     "a": "obecność dróżnika na przejeździe",
     "b": "„Stój” dla pojazdów samochodowych",
     "c": "niesprawne rogatki",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "489",
@@ -3909,7 +3909,7 @@
     "a": "częściowe przesunięcie obydwóch iglic równocześnie, przy czym iglica odsunięte całkowicie dosuwa się do opornicy zaś dosunięta odsuwa się od opornicy",
     "b": "zwolnienie zamknięcia nastawczego i częściowe przesunięcie iglicy odlegającej",
     "c": "zwolnienie zamknięcia nastawczego i częściowe przesunięcie obydwóch iglic",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "490",
@@ -3917,7 +3917,7 @@
     "a": "opórka , hak, sciąg iglicowy",
     "b": "opórka , klamra, hak",
     "c": "prowadnica, hak, klamra",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "491",
@@ -3925,15 +3925,15 @@
     "a": "szary",
     "b": "czerwony",
     "c": "czerwony lub szary",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "492",
     "question": "W czasie pierwszej fazy przestawiania zwrotnicy następuje:",
     "a": "częściowe przesunięcie iglicy dolegającej oraz zwolnienie zamknięcia nastawczego",
     "b": "częściowe przesunięcie iglicy odlegającej oraz zwolnienie zamknięcia nastawczego",
-    "c": "częściowe przesunięcie obydwu iglicy oraz zwolnienie zamknięcia nastawczego  S M S",
-    "answear": ""
+    "c": "częściowe przesunięcie obydwu iglicy oraz zwolnienie zamknięcia nastawczego",
+    "answear": "B"
   },
   {
     "id": "493",
@@ -3941,7 +3941,7 @@
     "a": "SMS",
     "b": "MMS",
     "c": "SZB",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "494",
@@ -3949,7 +3949,7 @@
     "a": "planowaniu, organizowaniu, kierowaniu i kontrolowaniu",
     "b": "ochronie pasażerów, towarów, obiektów i środowiska",
     "c": "funkcje nie dotyczą pracowników Centrum Zarządzania Ruchem Kolejowym",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "495",
@@ -3957,7 +3957,7 @@
     "a": "procedury SZB i instrukcje",
     "b": "procedury SMS i regulacje wewnętrzne (w szczególności instrukcje i regulaminy techniczne posterunków)",
     "c": "Księga Systemu Zarządzania Bezpieczeństwem",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "496",
@@ -3965,7 +3965,7 @@
     "a": "Autoryzacja bezpieczeństwa",
     "b": "Poświadczenie bezpieczeństwa",
     "c": "Zaświadczenie w sprawie bezpieczeństwa kolei",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "497",
@@ -3973,7 +3973,7 @@
     "a": "udostępnianie infrastruktury kolejowej i prowadzenie ruchu kolejowego",
     "b": "podnoszenie komfortu podróżowania i ochrona środowiska",
     "c": "modernizacja infrastruktury i obiektów kolejowych",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "498",
@@ -3981,7 +3981,7 @@
     "a": "1",
     "b": "5",
     "c": "18",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "499",
@@ -3989,7 +3989,7 @@
     "a": "Koordynatora ds. SMS w swojej jednostce organizacyjnej",
     "b": "Dyspozytora koordynatora w Dyspozyturze Głównej",
     "c": "Dyrektora Biura Bezpieczeństwa",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "500",
@@ -3997,7 +3997,7 @@
     "a": "MMS – PD - 06",
     "b": "SMS – PW - 06",
     "c": "SZB – ZK – 06",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "501",
@@ -4005,7 +4005,7 @@
     "a": "Instrukcja SMS",
     "b": "Regulamin przydzielania tras pociągów",
     "c": "System Zarządzania Bezpieczeństwem (SMS) PKP Polskie Linie Kolejowe S.A. w Pigułce",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "502",
@@ -4013,7 +4013,7 @@
     "a": "autoryzacji bezpieczeństwa",
     "b": "certyfikatu bezpieczeństwa",
     "c": "świadectwa bezpieczeństwa",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "503",
@@ -4021,7 +4021,7 @@
     "a": "skoncentrować się na zapewnieniu punktualności",
     "b": "poszukiwać kompromisu między bezpieczeństwem a punktualnością",
     "c": "nadać bezwzględny priorytet bezpieczeństwu",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "504",
@@ -4029,7 +4029,7 @@
     "a": "identyfikowanie potencjalnych aspektów doskonalenia Systemu Zarządzania Bezpieczeństwem",
     "b": "ocena, czy system kolejowy spełnia wymagania bezpieczeństwa określone w postaci krajowych wartości referencyjnych (NRV)",
     "c": "systematyczne wykorzystywanie dostępnych informacji do identyfikowania zagrożeń i szacowania ryzyka",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "505",
@@ -4037,7 +4037,7 @@
     "a": "wspomagających",
     "b": "analizy ryzyka",
     "c": "monitorowania i doskonalenia",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "506",
@@ -4045,7 +4045,7 @@
     "a": "akty prawa unijnego i krajowego",
     "b": "procedury SMS i regulacje wewnętrzne (instrukcje, regulaminy itp.)",
     "c": "decyzje kierowników jednostek i komórek organizacyjnych",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "507",
@@ -4053,7 +4053,7 @@
     "a": "jak najwcześniejsze wykrywanie wszelkich niezgodności w funkcjonowaniu SMS",
     "b": "systematyczne wykorzystywanie dostępnych informacji do identyfikowania zagrożeń i szacowania ryzyka",
     "c": "uczenie się przez doświadczenie (wyciąganie wniosków z zaistniałych zdarzeń kolejowych)",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "508",
@@ -4061,7 +4061,7 @@
     "a": "wszyscy pracownicy Spółki",
     "b": "wyłącznie kierownicy jednostek/komórek organizacyjnych Spółki",
     "c": "wyłącznie pracownicy Biura Bezpieczeństwa Centrali Spółki",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "509",
@@ -4069,7 +4069,7 @@
     "a": "stan, który może doprowadzić do zdarzenia kolejowego",
     "b": "częstotliwość wypadków i incydentów prowadzących do szkody oraz stopień powagi tej szkody",
     "c": "możliwe najgorsze skutki awarii systemu, w którym prowadzona jest zmiana",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "510",
@@ -4077,7 +4077,7 @@
     "a": "1",
     "b": "2",
     "c": "3",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "511",
@@ -4085,7 +4085,7 @@
     "a": "rejestr zmian wprowadzanych w procedurach SMS",
     "b": "kompendium (streszczenie) dokumentacji systemu Zarządzania Bezpieczeństwem",
     "c": "pełna dokumentacja systemu Zarządzania Bezpieczeństwem",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "512",
@@ -4093,7 +4093,7 @@
     "a": "Prezes Zarządu",
     "b": "Wiceprezes Zarządu, Dyrektor ds. restrukturyzacji",
     "c": "Wiceprezes Zarządu, Dyrektor ds. eksploatacji",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "513",
@@ -4101,7 +4101,7 @@
     "a": "Dyrektor",
     "b": "Zastępca Dyrektora ds. eksploatacyjnych",
     "c": "Naczelnik",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "514",
@@ -4109,7 +4109,7 @@
     "a": "wyłącznie zarządców infrastruktury w Polsce",
     "b": "wszystkich zarządców infrastruktury w Unii Europejskiej",
     "c": "wszystkich zarządców infrastruktury i przewoźników kolejowych w Unii europejskiej",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "515",
@@ -4117,7 +4117,7 @@
     "a": "Księga Systemu Zarządzania Bezpieczeństwem",
     "b": "SMS-PG-01 Udostępnianie infrastruktury kolejowej i prowadzenie ruchu kolejowego",
     "c": "SMS-PW-01 Utrzymanie linii kolejowej w sprawności technicznej i organizacyjnej",
-    "answear": ""
+    "answear": "B"
   },
   {
     "id": "516",
@@ -4125,7 +4125,7 @@
     "a": "regulacją wewnętrzną stanowiącą jeden z elementów Systemu zarządzania Bezpieczeństwem",
     "b": "regulacją wewnętrzna, której System zarządzania Bezpieczeństwem nie obejmuje",
     "c": "archiwalna regulacją wewnętrzną, która została zastąpiona przez procedurę SMS-PG-01 Udostępnianie infrastruktury kolejowej i prowadzenie ruchu kolejowego",
-    "answear": ""
+    "answear": "A"
   },
   {
     "id": "517",
@@ -4133,7 +4133,7 @@
     "a": "odsunięcie od pracy na stanowisku bezpośrednio związanym z prowadzeniem i bezpieczeństwem ruchu kolejowego pracownika nieposiadającego stosownych kwalifikacji (egzaminów, autoryzacji)",
     "b": "naprawa uszkodzenia nawierzchni stwierdzonego przez dróżnika obchodowego",
     "c": "wdrożenie nowych rozwiązań wspomagających prace dróżników przejazdowych, np. systemu SWDP",
-    "answear": ""
+    "answear": "C"
   },
   {
     "id": "518",
@@ -4141,6 +4141,6 @@
     "a": "personelu nadzoru nad bezpieczeństwem ruchu kolejowego",
     "b": "pracowników na stanowiskach bezpośrednio związanych z prowadzeniem i bezpieczeństwem ruchu kolejowego",
     "c": "wszystkich pracowników PKP PLK S.A.",
-    "answear": ""
+    "answear": "C"
   }
 ]
