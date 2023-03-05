@@ -20,4 +20,14 @@ export class SingleQuestionsComponent {
   showAnswear() {
     this.showAnswear$.next(true);
   }
+
+  getNewQuestion() {
+    this.question =
+      this.questions[Math.floor(Math.random() * this.questions.length)];
+  }
+
+  getNextQuestion() {
+    this.getNewQuestion();
+    this.showAnswear$.next(false);
+  }
 }
