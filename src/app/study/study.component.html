@@ -1,17 +1,27 @@
 <div class="mx-auto text-center mt-20 w-1/5 rounded-xl bg-cyan-200 p-4">
   <p class="text-3xl mb-10">Pytanie nr: {{question.id }}</p>
+  <p class="text-xl mb-6">{{ question.question }}</p>
+  <div class="text-left mt-4">
+    <p><b>A.</b> {{ question.a }}</p>
+    <p><b>B.</b> {{ question.b }}</p>
+    <p class="mb-10"><b>C.</b> {{ question.c }}</p>
+  </div>
+
+  <p> prawidłowa odpowiedź: {{ question.answear }}</p>
+
   <div class="flex flex-row justify-between">
-    <button class="w-78 border rounded-xl bg-green-400 p-1 m-4" type="button" (click)="increase()">Poprzednie
+    <button class="w-78 border rounded-xl bg-green-400 p-1 m-4" type="button" (click)="decrease()">Poprzednie
       pytanie</button>
-    <button class="w-70 border rounded-xl bg-green-400 p-1 m-4" type="button" (click)="decrease()">Następne
+    <button class="w-70 border rounded-xl bg-green-400 p-1 m-4" type="button" (click)="increase()">Następne
       pytanie</button>
   </div>
 </div>
 
 <div class="mx-auto text-center mt-6 h-22 w-1/5 rounded-xl bg-cyan-200 p-4">
   <span class="mr-2">przejdź do pytania nr:</span>
-  <input class="w-24" type="number">
-  <button class="w-32 border rounded-xl bg-green-600 p-2 m-4">OK</button>
+  <input class="w-24" type="number" [(ngModel)]="n">
+
+  <button class="w-32 border rounded-xl bg-green-600 p-2 m-4" (click)="goToQuestion()" type="button">OK</button>
 </div>
-<button class="fixed right-0 bottom-0 w-60 border rounded-xl bg-green-600 p-2 m-4" routerLink="">Powrót do
+<button class=" fixed right-0 bottom-0 w-60 border rounded-xl bg-green-600 p-2 m-4" routerLink="">Powrót do
   menu</button>
