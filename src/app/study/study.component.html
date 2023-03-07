@@ -1,9 +1,9 @@
-<div class="mx-auto text-center mt-20 w-1/5 rounded-xl bg-cyan-200 p-4">
+<div class="mx-auto text-center mt-4 w-4/5 md:w-2/5 rounded-xl bg-cyan-200 p-2">
   <p class="text-3xl mb-10">Pytanie nr: {{question.id }}</p>
   <p class="text-xl mb-6">{{ question.question }}</p>
   <div class="text-left mt-4">
-    <p><b>A.</b> {{ question.a }}</p>
-    <p><b>B.</b> {{ question.b }}</p>
+    <p class="mb-1"><b>A.</b> {{ question.a }}</p>
+    <p class="mb-1"><b>B.</b> {{ question.b }}</p>
     <p class="mb-10"><b>C.</b> {{ question.c }}</p>
   </div>
 
@@ -17,7 +17,7 @@
   </div>
 </div>
 
-<div class="mx-auto text-center mt-6 h-22 w-1/5 rounded-xl bg-cyan-200 p-4">
+<div class="mx-auto text-center mt-6 h-22 w-60 rounded-xl mb-40 bg-cyan-200 p-4">
   <span class="mr-2">przejdź do pytania nr:</span>
   <input class="w-24" type="number" [(ngModel)]="n">
 

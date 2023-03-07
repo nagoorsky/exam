@@ -1,9 +1,9 @@
-<div class="mx-auto text-center mt-20 w-2/5 rounded-xl bg-cyan-200 p-4">
+<div class="mx-auto text-center mt-4 w-4/5 md:w-2/5 mb-20 rounded-xl bg-cyan-200 p-2">
   <p class="text-3xl mb-10">Pytanie nr: {{ question.id }}</p>
   <p class="text-xl mb-6">{{ question.question }}</p>
   <div class="text-left mt-4">
-    <p><b>A.</b> {{ question.a }}</p>
-    <p><b>B.</b> {{ question.b }}</p>
+    <p class="mb-1"><b>A.</b> {{ question.a }}</p>
+    <p class="mb-1"><b>B.</b> {{ question.b }}</p>
     <p class="mb-10"><b>C.</b> {{ question.c }}</p>
   </div>
   <div *ngIf="showAnswear$ | async">
